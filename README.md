@@ -43,9 +43,8 @@ We adopt the word-to-vector model pre-trained on Google News dataset (~ 100 bill
 ## Dependencies
 
 ```python
-PyTorch
-Numpy
-Pandas
+PyTorch 1.8.1
+Numpy 1.19.5
 Sklearn
 ```
 
